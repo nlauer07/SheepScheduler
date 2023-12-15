@@ -1,0 +1,1 @@
+A Java program which will generate a sheep shearing schedule based on a given file and priority scheduling. Only one sheep can be sheared at a time and the other sheep must wait to be sheared. While the other sheep are waiting, they are prioritized by smaller shearing times and then by their name in alphabetical order. The next sheep to be sheared has the highest priority.
